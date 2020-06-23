@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24397877680",
+    "firebase_url": "https://softwarelibre-64699.firebaseio.com",
+    "project_id": "softwarelibre-64699",
+    "storage_bucket": "softwarelibre-64699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24397877680:android:a4440a5acf2414b58d0675",
+        "android_client_info": {
+          "package_name": "com.example.softwarelibre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24397877680-us2s5ph2i474cg71p0ssuh3h2s3th3sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.softwarelibre",
+            "certificate_hash": "a9f67b1e26b1840adcf62be687be8dbf83207364"
+          }
+        },
+        {
+          "client_id": "24397877680-uvb7uq5cc24r809rh5ckqtnak4tuootn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvCCH7b12uOEgh9Kf9-2AZ7TIZShLcI3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24397877680-uvb7uq5cc24r809rh5ckqtnak4tuootn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

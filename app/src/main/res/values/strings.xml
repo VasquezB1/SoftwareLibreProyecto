@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SoftwareLibre</string>
+
+
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_registro">Registrar</string>
+    <string name="btn_registro_registro">Registrar</string>
+    <string name="btn_regreso">Regresar</string>
+    <string name="btn_registro_producto">Registrar Producto</string>
+    <string name="btn_historial">Historial Compras</string>
+    <string name="Usuario">Byron Vásquez</string>
+
+
+
+    <string name="txt_correo">Correo</string>
+    <string name="txt_contra">Contraseña</string>
+
+    <string name="tv1">PrimerActivity</string>
+
+    <string name="txtprincipal">Ventana Registro</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_correo_registro">Correo Electrónico</string>
+    <string name="txt_contra_registro">Contraseña</string>
+    <string name="txt_direccion">Direccion</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento</string>
+
+    <string name="txt_nombre_empresa">PC BUILDS</string>
+    <string name="txt_slogan">Un lugar donde está todo</string>
+    <string name="txt_sesion_iniciada">Sesión iniciado como:</string>
+    <string name="txt_busqueda">Busca tú componente:</string>
+    <string name="txt_vender">¿Deseas Vender un Producto?</string>
+
+
+</resources>
